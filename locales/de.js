@@ -46,7 +46,7 @@ rebate:
 apply_promo_code:
 "Promotionscode einlösen",
 my_cart:
-"Mein Warenkorb 2",
+"Mein Warenkorb",
 my_cart_content:
 "In meinem Warenkorb",
 shipping_method:
